@@ -11,3 +11,8 @@ Data Collection: Collect user data submitted through the signup page and validat
 MongoDB Integration: Implement MongoDB integration to store user information securely in a database.
 
 Documentation: Thoroughly document the project, including setup instructions, code structure, and explanations for key components.
+
+Contributions
+Contributions to this project are welcome! If you'd like to contribute, please follow the guidelines outlined in CONTRIBUTING.md.
+
+Made By Prakhar Chauhan
